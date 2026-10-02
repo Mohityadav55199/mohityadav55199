@@ -108,6 +108,16 @@ I build **end-to-end web applications** with **React, Next.js and Node.js**, wit
 
 ---
 
+## 🧩 LeetCode Stats
+
+<p align="center">
+  <a href="https://leetcode.com/u/Learner40220">
+    <img src="https://leetcard.jacoblin.cool/Learner40220?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/>
+  </a>
+</p>
+
+---
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Mohityadav55199&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
