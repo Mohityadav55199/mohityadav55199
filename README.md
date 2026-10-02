@@ -92,7 +92,7 @@ I build **end-to-end web applications** with **React, Next.js and Node.js**, wit
 ## 🌐 Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+  <a href="https://www.linkedin.com/in/mohit-yadav-60256a28a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:mohityadav55199@gmail.com">
