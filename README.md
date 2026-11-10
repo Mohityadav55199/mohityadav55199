@@ -13,20 +13,20 @@ I build **end-to-end products** with **React, Next.js, React Native and Node.js 
 💼 **Full Stack Developer Intern @ ModelSuite Technologies** (Feb – Apr 2026): shipped 3 full-stack apps in a 5-member Agile team, including voice-to-text used by 8–10 teammates<br><br>
 🤝 Looking to collaborate on: full-stack products and GenAI backends (agents, RAG pipelines, evals)<br><br>
 💬 Ask me about: double-booking-safe reservations, idempotent payment webhooks, RAG retrieval tuning, LangGraph agents<br><br>
-⚡ Fun fact: I've solved **500+ DSA problems** and I'm the **Intra-College Chess Champion (2025)** ♟️
+⚡ Fun fact: I'm the **Intra-College Chess Champion (2025)** ♟️
 
 ---
 
 ## 📊 By the Numbers
 
-| | |
+| Metric | Value |
 |---|---|
 | 🧱 Deployed projects | **5+** (web, mobile and AI) |
 | 🔌 REST API endpoints shipped | **150+** across projects |
 | 🧪 Automated tests written | **600+** (pytest, Vitest, Node test runner) |
 | 🎯 RAG retrieval Hit@1 | **86.7% → 90%**, follow-up MRR **0.60 → 0.88** |
 | 🎟️ Load test | **300 concurrent users, 30 seats → exactly 30 sold** |
-| 🔒 Vulnerabilities fixed | **139 → 0** (AgentSphere) |
+| 🔒 Dependency vulnerabilities | **139 → 0** (AgentSphere) |
 
 ---
 
@@ -87,7 +87,7 @@ I build **end-to-end products** with **React, Next.js, React Native and Node.js 
 ### 📄 Production RAG Agent: Document Intelligence Platform
 `Python` `FastAPI` `LangGraph` `Qdrant` `PostgreSQL` `Next.js 16` · [Code](https://github.com/Mohityadav55199/Production-RAG-Agent) · [Live](https://productionragagent.vercel.app/)
 - RAG over **9 document types** (with OCR) and whole GitHub repos; cited answers streamed over SSE with a Groq → Gemini → Claude fallback
-- Hybrid search, reranking and query rewriting: **Hit@1 86.7% → 90%**, follow-up **MRR 0.60 → 0.88**, **97.5% LLM-judged faithfulness**
+- Hybrid search, reranking and query rewriting: **Hit@1 86.7% → 90%**, follow-up **MRR 0.60 → 0.88**, **97.4% LLM-judged faithfulness** on 60 questions
 - **6-agent LangGraph** resume tailor with a grounding check that blocks invented claims and LaTeX PDF output
 - **398 tests at 80% coverage**, 6 CI jobs, crash-safe Postgres ingestion queue (`FOR UPDATE SKIP LOCKED`)
 
