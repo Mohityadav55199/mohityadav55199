@@ -3,7 +3,7 @@
 🚀 **B.Tech ECE Undergraduate @ IIIT Una (Final Year, 2027)**  
 💡 **Full Stack Development | Backend Systems | GenAI Applications | React Native**
 
-I build **end-to-end products** with **React, Next.js, React Native and Node.js / FastAPI**, with a focus on **solid backends** (REST APIs, auth, payments, concurrency) and **measured AI features** (RAG, LangGraph agents, LLM evaluation).
+I build **end-to-end products** with **React, Next.js, React Native and Node.js / FastAPI**, with a focus on **solid backends** (REST APIs, auth, payments, concurrency) and **measured AI features** (RAG, LangGraph agents, LLM evaluation). Strong in **Data Structures & Algorithms**, with **500+ problems solved** across LeetCode, Codeforces and GeeksforGeeks.
 
 ---
 
